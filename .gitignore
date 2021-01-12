@@ -35,7 +35,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /application/config/database.php
 /uploads/
 /sql_db/
-/assetsAdmin/
+/assetsAdmin/*
 !/assetsAdmin/js/
 .htaccess
 .editorconfig
